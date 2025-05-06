@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <h1>This is CI/CD Pipelines</h1>
+      <h1>This is CI/CD Pipelines. this is updated version</h1>
     </>
   )
 }
